@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Melodia (Rust)
+Comment=Lean Spotify-style music player
+Exec=%h/.local/bin/melodia-rs
+Icon=audio-x-generic
+Categories=AudioVideo;Audio;Player;
